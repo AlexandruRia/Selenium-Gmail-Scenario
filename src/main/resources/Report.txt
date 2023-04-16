@@ -1,0 +1,9 @@
+--------------Test Results--------------
+--Test 1: Mail received: [Success]✅
+----------------------------------------
+--Test 2: Subject is correct: [Success]✅
+----Subject received: Test message!
+----------------------------------------
+--Test 3: Body is correct: [Success]✅
+----Body received: This is a test message!
+----------------------------------------
